@@ -2,8 +2,8 @@ import requests
 from tavily import TavilyClient
 
 
-MISTRAL_API_KEY = "your mistral api key here"
-TAVILY_API_KEY = "your tavily api key here"
+MISTRAL_API_KEY = "your mistral api key"
+TAVILY_API_KEY = "your tavily api key"
 
 
 tavily_client = TavilyClient(api_key=TAVILY_API_KEY)
