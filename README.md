@@ -48,7 +48,7 @@ python mislot-offres.py
 
 ## How it works
 
-1. The user enters a query in French
+1. The user enters a query in French (you can edit in the code)
 2. System uses Mistral AI to extract relevant keywords
 3. These keywords are used to search via the Tavily API
 4. The results are formatted and presented to the user with :
