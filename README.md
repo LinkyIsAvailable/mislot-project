@@ -21,7 +21,7 @@ This project is an intelligent search assistant designed specifically for Missio
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.11
 - API keys :
   - Mistral AI API
   - Tavily API
